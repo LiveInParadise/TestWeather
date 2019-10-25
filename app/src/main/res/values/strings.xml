@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestWeatherApp</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+
+    <string name="current_temp">Текущая температура: %s</string>
+    <string name="min_temp">Минимальная температура: %s</string>
+    <string name="max_temp">Максимальная температура: %s</string>
+    <string name="wind_speed">Скорость ветра: %s</string>
+    <string name="wind_deg">Угол: %s</string>
+    <string name="date">Дата: %s</string>
+    <string name="city_id">ИД города: %s</string>
+</resources>
